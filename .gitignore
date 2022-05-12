@@ -1,3 +1,5 @@
+
+
 .idea
 .cache
 .local
@@ -7,6 +9,5 @@ __pycache__
 .coverage
 .bash_history
 .env
-logs
 uploads
 database
