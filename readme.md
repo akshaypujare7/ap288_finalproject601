@@ -2,12 +2,12 @@
 
 [![Production Workflow](https://github.com/akshaypujare7/ap288_finalproject601/actions/workflows/prod.yml/badge.svg)](https://github.com/akshaypujare7/ap288_finalproject601/actions/workflows/prod.yml)
 
-* [Production Deployment](https://project3-ap288prod.herokuapp.com)
+* [Production Deployment](https://ap288-finalprod.herokuapp.com/)
 
 
 [![Development Workflow](https://github.com/akshaypujare7/ap288_finalproject601/actions/workflows/dev.yml/badge.svg)](https://github.com/akshaypujare7/ap288_finalproject601/actions/workflows/dev.yml)
 
-* [Developmental Deployment](https://project3-ap288dev.herokuapp.com)
+* [Developmental Deployment](https://ap288-finaldev.herokuapp.com/)
 
 ## Setting up CI/CD
 
